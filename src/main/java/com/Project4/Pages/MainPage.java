@@ -59,6 +59,8 @@ public class MainPage {
         System.out.println("actualText " + actualText);
         Assert.assertEquals(actualText, expectedText);
 
+        System.out.println("fasula");
+
 
     }
 }
